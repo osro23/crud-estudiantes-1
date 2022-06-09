@@ -9,7 +9,7 @@
 
                 <div class="row card-body">
                     <div class="d-flex col-8 col-md-4 mx-auto justify-content-center align-items-center">
-                        <img class="w-100 img-fluid" src="https://bucket-crud-estudiantes.s3.amazonaws.com/logo.png" alt="imagen">
+                        <img class="w-100 img-fluid" src="https://buncket.s3.amazonaws.com/descargar.png" alt="imagen">
                     </div>
                     <div class="col-8">
                         <form method="POST" action="{{ route('login') }}">
